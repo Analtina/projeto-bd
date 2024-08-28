@@ -1,1 +1,1 @@
-# projeto-bd
+# Projeto de banco de dados - Book&Store
